@@ -3,5 +3,6 @@
 
 ### Problemática
 _Una línea de empaquetado pierde cajas, tiempo y personal. Tienen 60 minutos para rediseñarla, programar una herramienta que lo demuestre y defenderla ante el jurado._
+[Ver el problema completo](PROBLEMA.md)
 
 [Una vez terminado, aquí irá la explicación de la funcionalidad del programa]
